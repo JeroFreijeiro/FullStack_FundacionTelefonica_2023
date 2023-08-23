@@ -71,7 +71,7 @@ body{
 /* ========== SECCIÓN FORMULARIO =========== */
 #bg-contacto {
     position: relative;
-    top: -60px;
+    top: -130px;
 }
 
 #seccion-contacto {
@@ -137,7 +137,7 @@ footer p {
         text-align: center;
     }
     #bg-contacto {
-        top: -50px;
+        top: -110px;
     }
 }
 
